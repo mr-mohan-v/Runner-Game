@@ -1,0 +1,30 @@
+body{
+  background-color:#211F1F;
+}
+canvas{
+  background-color:#808080;
+}
+#box{
+  border: 1px solid #555;
+}
+#button{
+  background-color:#00FF00;
+  color:#0000FF;  
+} 
+/*ol.horizontal{
+    list-style-type: decimal;
+    width: 600px;
+}*/
+
+/*ol.horizontal li{
+    float: left;
+    width: 200px;
+    padding: 2px 0px;
+}*/
+#highscores{
+  color: aqua;
+}
+.v p{
+  display: inline-block;
+  vertical-align: top;
+}
